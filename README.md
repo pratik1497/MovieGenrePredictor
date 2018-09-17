@@ -1,2 +1,2 @@
 # MovieGenrePredictor
-Using a CNN predicts the movie genres of a movie poster
+Using a Convolutional Neural Network to predict the movie genres of a movie poster.
